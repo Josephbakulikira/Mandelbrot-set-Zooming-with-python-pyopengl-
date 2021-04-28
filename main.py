@@ -1,5 +1,3 @@
-
-
 from __future__ import division
 import pygame
 from pygame.locals import *
@@ -17,7 +15,7 @@ from shaders import *
 WIDTH, HEIGHT = 1920, 1080
 
 zoomOut = 1.001
-zoomIn = 0.98
+zoomIn = 0.999
 movementSpeed = 0.002
 
 class Main(object):

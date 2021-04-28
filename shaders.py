@@ -27,8 +27,11 @@ out float frag_depth;
 
 int GetIterations()
 {
-    float real = ((gl_FragCoord.x / 1080.0 - 1.0f) * ZoomScale + CenterX )* 4.0;
-    float imag = ((gl_FragCoord.y / 1080.0 - 0.5f) * ZoomScale + CenterY )* 4.0;
+    //if you change the screen , change the value of offset X and offset Y till it the mandelbrot is centered on your screen
+    float offsetX = 1.0f;
+    float offsetY = 0.5f;
+    float real = ((gl_FragCoord.x / 1080.0 - offsetX) * ZoomScale + CenterX )* 4.0;
+    float imag = ((gl_FragCoord.y / 1080.0 - offsetY) * ZoomScale + CenterY )* 4.0;
 
     int iterations = 0;
     float real_number = real;

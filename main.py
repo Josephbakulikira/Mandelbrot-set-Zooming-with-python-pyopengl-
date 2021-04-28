@@ -17,7 +17,7 @@ from shaders import *
 WIDTH, HEIGHT = 1920, 1080
 
 zoomOut = 1.001
-zoomIn = 0.999
+zoomIn = 0.98
 movementSpeed = 0.002
 
 class Main(object):

@@ -2,11 +2,11 @@
 ### check out the blogs on my website: https://www.auctux.com/projects
 ## please Subscribe to my Youtube Channel for support: https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA
 
-# -- COMMANDS --
-### NUMPAD " + " -> Zoom in
-### NUMPAD " - " -> Zoom out
-### ARROWS -> for direction
-# --------------
+    # -- COMMANDS --
+    ### NUMPAD " + " -> Zoom in
+    ### NUMPAD " - " -> Zoom out
+    ### ARROWS -> for direction
+    # --------------
 
 # LIBRARIES TO INSTALL:
  

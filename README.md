@@ -12,9 +12,9 @@
  
  ## pygame and pyopengl
  
- ### pip install PyOpenGL PyOpenGL_accelerate
- ### pip install numpy
- ### pip install pygame
+         ### pip install PyOpenGL PyOpenGL_accelerate
+         ### pip install numpy
+         ### pip install pygame
 
 ![Screenshot (57)](https://user-images.githubusercontent.com/48150537/116480277-a74be480-a89e-11eb-8e8c-486f3bcdf649.png)
 ![Screenshot (60)](https://user-images.githubusercontent.com/48150537/116480723-7fa94c00-a89f-11eb-838e-98bb2a6033d5.png)

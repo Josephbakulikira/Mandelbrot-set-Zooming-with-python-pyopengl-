@@ -10,7 +10,6 @@ from sys import exit as exitsystem
 
 from numpy import array, count_nonzero
 
-from shaders import *
 
 WIDTH, HEIGHT = 1920, 1080
 

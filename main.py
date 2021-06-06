@@ -18,6 +18,16 @@ zoomOut = 1.001
 zoomIn = 0.999
 movementSpeed = 0.002
 
+def ReadFile(filename):
+    data = ""
+    with open(filename, 'r') as f:
+        data = f.read()
+    return data
+
+VERTEX_SHADER = ReadFile('./vertexShader.glsl')
+FRAGMENT_SHADER = ReadFile('./fragmentShader.glsl')
+
+
 class Main(object):
     def __init__(self):
         pygame.init()

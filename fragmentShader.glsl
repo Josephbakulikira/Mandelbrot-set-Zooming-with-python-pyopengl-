@@ -1,16 +1,5 @@
-VERTEX_SHADER = """
 #version 330 core
-layout(location = 0) in vec3 vPos;
-
-void main()
-{
-    gl_Position = vec4( vPos.xyz, 1.0);
-}
-"""
-
-FRAGMENT_SHADER = """
-#version 330 core
-#define MAX_ITERATIONS 500
+#define MAX_ITERATIONS 1000
 
 uniform vec2  iMouse;
 uniform float iTime;
@@ -98,4 +87,3 @@ void main()
     vec4 color = GetColorValues();
     frag_color = color;
 }
-"""

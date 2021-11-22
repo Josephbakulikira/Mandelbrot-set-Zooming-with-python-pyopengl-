@@ -3,9 +3,9 @@
 #### please Subscribe to my Youtube Channel for support: [Auctux](https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA)
 
 # -- COMMANDS --
- NUMPAD `+` -> Zoom in
- NUMPAD `-`-> Zoom out
-`ARROWS` -> for direction
+- NUMPAD `+` -> Zoom in
+- NUMPAD `-`-> Zoom out
+- `ARROWS` -> for direction
 
 
 ## REQUIREMENTS

@@ -1,6 +1,6 @@
 # Mandelbrot-set-Zooming-with-python-pyopengl-
 #### website: https://www.auctux.com/projects
-#### please Subscribe to my Youtube Channel for support: [Auctux](https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA)
+#### check out my Youtube Channel for support: [Auctux](https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA)
 
 # -- COMMANDS --
 - NUMPAD `+` -> Zoom in
